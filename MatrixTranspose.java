@@ -27,4 +27,5 @@ System.out.print(transpose[i][j]+" ");
 }    
 System.out.println();//new line    
 }    
-}}  
+}
+}  
