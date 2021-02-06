@@ -46,7 +46,9 @@ System.out.println("d value " +ref2.d); // o/p :- d value : 2.1
 System.out.println ("********");
 
 sample ref3 = new sample(2,2.1);
+
 System.out.println("i value " +ref3.i); // o/p :- i value : 2
+
 System.out.println("d value " +ref3.d); // o/p :- i value : 2.1
 
 
