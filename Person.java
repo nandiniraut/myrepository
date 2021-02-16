@@ -1,12 +1,12 @@
 public class Person {
   private String name; // private = restricted access
 
-  // Getter
+  // Getter // gets the private variable
   public String getName() {
     return name;
   }
 
-  // Setter
+  // Setter // sets the private variable
   public void setName(String newName) {
     this.name = newName;
   }
