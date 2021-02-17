@@ -4,7 +4,7 @@ class Box
 	double width, height, depth; 
 
 	
-	Box(double w, double h, double d) 
+	Box(double w, double h, double d)  //1st constructor
 	{ 
 		width = w; 
 		height = h; 
@@ -12,19 +12,19 @@ class Box
 	} 
 
 	 
-	Box() 
+	Box()  // second constructor
 	{ 
 		width = height = depth = 0; 
 	} 
 
 	 
-	Box(double len) 
+	Box(double len)  // third constructor, overloading happens here
 	{ 
 		width = height = depth = len; 
 	} 
 
 	
-	double volume() 
+	double volume() //function to calculate volume
 	{ 
 		return width * height * depth; 
 	} 
