@@ -2,19 +2,19 @@
 public class Sum { 
 
 	
-	public int sum(int x, int y) 
+	public int sum(int x, int y)  // method takes 2 int values, ruturns sum
 	{ 
 		return (x + y); 
 	} 
 
 
-	public int sum(int x, int y, int z) 
+	public int sum(int x, int y, int z)  // method takes 3 int values, ruturns sum
 	{ 
 		return (x + y + z); 
 	} 
 
 	
-	public double sum(double x, double y) 
+	public double sum(double x, double y) // method takes 2 double values, ruturns sum
 	{ 
 		return (x + y); 
 	} 
