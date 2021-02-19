@@ -2,10 +2,12 @@ public class InfiniteHello {
 static void p(){  
 
 	System.out.println("hello");  
-        p();  
+ 
+	p();  
 }  
   
-public static void main(String[] args) {  
-p();  
+    public static void main(String[] args) {  
+    
+	p();  
 }  
 }  
