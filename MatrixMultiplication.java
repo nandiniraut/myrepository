@@ -5,7 +5,7 @@ public static void main(String args[]){
 int a[][]={{1,1,1},{2,2,2},{3,3,3}};    
 int b[][]={{1,1,1},{2,2,2},{3,3,3}};    
     
-//creating another matrix to store the multiplication of two matrices    
+	//creating another matrix to store the multiplication of two matrices    
 int c[][]=new int[3][3];  //3 rows and 3 columns  
     
 //multiplying and printing multiplication of 2 matrices    
