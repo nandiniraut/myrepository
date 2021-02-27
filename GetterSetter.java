@@ -3,7 +3,7 @@ public class Person {
 
   // Getter
   public String getName() {
-    return name;
+  return name;
   }
 
   // Setter
