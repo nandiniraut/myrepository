@@ -5,7 +5,7 @@ class Factorial{
 		int i,fact=1;  
   
 		int number=5; //Number whose factorial is to be found 
-
+i
   for(i=1;i<=number;i++){    
       fact=fact*i;    
   }    
