@@ -10,7 +10,7 @@
          while(sentenceScan.hasNext()) {
              String word = sentenceScan.next(); 
              struppercase += Character.toUpperCase(word.charAt(0)) + word.substring(1) + " "; 
-         }
+        }
       System.out.println(struppercase.trim()); 
     }
 }
