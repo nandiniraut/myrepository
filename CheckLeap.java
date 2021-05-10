@@ -1,4 +1,4 @@
-ipublic class CheckLeap {
+public class CheckLeap {
 
   public static void main(String[] args) {
 
